@@ -14,7 +14,7 @@ export default function Home() {
       <header className="h-16 flex items-center justify-between px-4 md:px-6 bg-gray-900 text-white shadow-lg">
         <div className="flex items-center gap-2">
           <div className="w-3 h-3 bg-green-400 rounded-full animate-pulse"></div>
-          <span className="font-semibold text-lg">Device Tracker</span>
+          <span className="font-semibold text-lg">GeoTrack</span>
         </div>
         <div className="flex items-center gap-4">
           <span className="text-sm hidden sm:inline text-gray-200">
