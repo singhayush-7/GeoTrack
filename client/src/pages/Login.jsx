@@ -32,7 +32,7 @@ export default function Login() {
       >
  
         <div className="text-center space-y-1">
-          <h1 className="text-2xl font-bold text-gray-800">📍 Real-Time Tracker</h1>
+          <h1 className="text-2xl font-bold text-gray-800">📍GeoTrack</h1>
           <p className="text-sm text-gray-500">
             {mode === 'login' ? 'Sign in to track your devices' : 'Create your account'}
           </p>
